@@ -1,0 +1,23 @@
+{
+  "name": "moxking-modoules-in-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "moxking-modoules-in-jest": "/Users/oscar.oceguera/Documents/repos/examples/scratching-jest/moxking-modoules-in-jest"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
